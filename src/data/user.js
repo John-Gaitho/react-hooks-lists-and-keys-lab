@@ -1,11 +1,11 @@
 const user = {
-  name: "Liza",
-  city: "New York",
-  bio: "I made this!",
+  name: "John Gaitho",
+  city: "Nyandarua County",
+  bio: "Am an asset and a worthy investment",
   color: "firebrick",
   links: {
-    github: "https://github.com/liza",
-    linkedin: "https://www.linkedin.com/in/liza/",
+    github: "https://github.com/John-Gaitho/",
+    linkedin: "https://www.linkedin.com/in/John-Gaitho/",
   },
   projects: [
     {
@@ -16,9 +16,9 @@ const user = {
     },
     {
       id: 2,
-      name: "Kibbles N Bitz",
-      about: "Tinder for dogs",
-      technologies: ["React", "Redux"],
+      name: "Deck of Cards",
+      about: "Card Game",
+      technologies: ["JavaScript","html", "css"],
     },
     {
       id: 3,
